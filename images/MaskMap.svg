@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1439px" height="529px" viewBox="0 0 1439 529" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Mask</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="87.1756185%" y1="1.85692917%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#D7113F" offset="0%"></stop>
+            <stop stop-color="#DD4249" offset="100%"></stop>
+        </linearGradient>
+        <path d="M0,0 L1440,0 L1440,675.568252 C1332.82314,673.201044 1248.93701,675.18938 1188.34161,681.53326 C1013.43836,699.844305 824.222142,739 720,739 C611.762024,739 399.434544,701.282595 214.963628,681.53326 C157.987496,675.433433 86.3329535,673.445097 0,675.568252 L0,0 Z" id="path-2"></path>
+    </defs>
+    <g id="контакты" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1.000000, 0.000000)" opacity="0.905061141">
+        <g id="хедер" transform="translate(1.000000, -210.000000)">
+            <g id="фон">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <use id="Mask" fill="url(#linearGradient-1)" opacity="0.800101902" xlink:href="#path-2"></use>
+            </g>
+        </g>
+    </g>
+</svg>

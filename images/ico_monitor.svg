@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="68px" height="68px" viewBox="0 0 68 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>иконка</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="30" cy="30" r="30"></circle>
+        <filter x="-11.7%" y="-8.3%" width="123.3%" height="123.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.411543252 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Desktop-HD-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-236.000000, -1445.000000)">
+        <g id="блок2" transform="translate(-447.000000, 1416.000000)">
+            <g id="иконка" transform="translate(687.000000, 31.000000)">
+                <g id="Oval-2">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#DB444D" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <path d="M44.3717775,18.0441565 L44.3717775,18 L17.6145235,18 L17.6145235,18.0441565 C16.7491389,18.1039436 16.1025467,18.7905185 16,19.6255842 L16,37.182675 C16,37.5199056 16.0888477,37.8039921 16.2356226,38.0603342 C16.5734005,38.6539069 17.0716522,38.9547963 17.7612984,38.9547963 L27.419476,38.9547963 L27.419476,41.3865295 L25.5845945,41.3865295 C25.1290053,41.3865295 24.7775284,41.740563 24.7775284,42.1922879 C24.7775284,42.6455758 25.1290053,43 25.5845945,43 L36.4017065,43 C36.8557301,43 37.222863,42.6455758 37.222863,42.1922879 C37.222863,41.740563 36.8557301,41.3865295 36.4017065,41.3865295 L34.5672164,41.3865295 L34.5672164,38.9547963 L44.223437,38.9547963 C44.9146488,38.9547963 45.4175973,38.6539069 45.7510698,38.0603342 C45.9021501,37.7914876 46,37.5031027 46,37.182675 L46,19.6255842 C45.8978447,18.7905185 45.2081985,18.1039436 44.3717775,18.0441565 Z M44,20.1407129 L44,36.8592871 C44,36.9575985 43.9570235,37 43.8558577,37 L18.142621,37 C18.0429765,37 18,36.9575985 18,36.8592871 L18,20 L44,20 L44,20.1407129 Z" id="computer-screen" fill="#9D2041"></path>
+            </g>
+        </g>
+    </g>
+</svg>

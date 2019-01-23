@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="68px" height="68px" viewBox="0 0 68 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>иконка</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="30" cy="30" r="30"></circle>
+        <filter x="-11.7%" y="-8.3%" width="123.3%" height="123.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.411543252 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="WMS-система" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-596.000000, -1266.000000)">
+        <g id="блока2.2" transform="translate(600.000000, 1268.000000)">
+            <g id="иконка">
+                <g id="Oval-2">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#DB444D" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <path d="M37.8151218,17 L22.3245513,17 C21.348075,17 20.562,17.7898983 20.562,18.76561 L20.562,41.2291547 C20.562,42.2018077 21.348075,42.994 22.3245513,42.994 L37.8151218,42.994 C38.7885395,42.994 39.5784378,42.2025724 39.5784378,41.2291547 L39.5784378,18.76561 C39.5799671,17.7898983 38.7893042,17 37.8151218,17 Z M30.0706012,42.3325653 C29.4909856,42.3325653 29.0222464,41.8638261 29.0222464,41.2849752 C29.0222464,40.7053596 29.4909856,40.2358557 30.0706012,40.2358557 C30.6486875,40.2358557 31.1189561,40.7053596 31.1189561,41.2849752 C31.1189561,41.8638261 30.6486875,42.3325653 30.0706012,42.3325653 Z M37.7944758,39.3174938 L22.3467266,39.3174938 L22.3467266,19.1211789 L37.7944758,19.1211789 L37.7944758,39.3174938 Z" id="Shape" fill="#9D2041" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="68px" height="68px" viewBox="0 0 68 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>иконка</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="30" cy="30" r="30"></circle>
+        <filter x="-11.7%" y="-8.3%" width="123.3%" height="123.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.411543252 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="WMS-система" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-996.000000, -1266.000000)">
+        <g id="блока2.3" transform="translate(1000.000000, 1268.000000)">
+            <g id="иконка">
+                <g id="Oval-2">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#DB444D" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <path d="M37.0622455,16.3107417 L24.2717545,16.3107417 C23.2061535,16.3107417 22.334,17.1820754 22.334,18.2484962 L22.334,43.0614258 C22.334,44.1278465 23.2061535,45 24.2717545,45 L37.0622455,45 C38.1278465,45 39,44.1294859 39,43.0622455 L39,18.2484962 C39,17.1820754 38.1278465,16.3107417 37.0622455,16.3107417 Z M28.621046,17.7074987 L32.712954,17.7074987 C32.8424655,17.7074987 32.9473862,17.8124194 32.9473862,17.9427506 C32.9473862,18.0722621 32.8424655,18.1771829 32.712954,18.1771829 L28.621046,18.1771829 C28.4915345,18.1771829 28.3866138,18.0722621 28.3866138,17.9427506 C28.3866138,17.8124194 28.4915345,17.7074987 28.621046,17.7074987 Z M30.667,44.0311228 C30.1317404,44.0311228 29.6981228,43.5975051 29.6981228,43.0614258 C29.6981228,42.5253465 30.1317404,42.0925486 30.667,42.0925486 C31.2022596,42.0925486 31.6358772,42.5253465 31.6358772,43.0614258 C31.6358772,43.5975051 31.2022596,44.0311228 30.667,44.0311228 Z M37.6516049,41.4138427 L23.6823951,41.4138427 L23.6823951,19.3837711 L37.6516049,19.3837711 L37.6516049,41.4138427 Z" id="Shape" fill="#9D2041" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

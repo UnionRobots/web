@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="327px" viewBox="0 0 1440 327" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="WMS-система" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0.000000, -2932.000000)">
+        <g id="футер" transform="translate(-754.000000, 2932.000000)" fill="#373636">
+            <g id="фон">
+                <path d="M754,40.1821599 C829.422453,52.2367527 882.074518,57.1031094 911.956195,54.7812299 C1063.66181,42.9933316 1297.55384,-7.44532769 1554.37826,0.934095246 C1617.5027,2.99365929 1882.59964,26.8486494 2018.02474,40.1821599 C2059.12152,44.2284143 2117.77994,44.2284143 2194,40.1821599 L2194,440 L1595.2057,440 L754,440 L754,40.1821599 Z" id="Rectangle-2"></path>
+            </g>
+        </g>
+    </g>
+</svg>

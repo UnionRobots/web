@@ -1,0 +1,29 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+@font-face {
+  font-family: Gilroy-Light;
+  src: url("./fonts/Gilroy-Light.otf") format("opentype");
+}
+@font-face {
+  font-family: Gilroy-ExtraBold;
+  src: url("./fonts/Gilroy-ExtraBold.otf") format("opentype");
+}
+//$font-family-sans-serif: Gilroy-Light, sans-serif;
+h1, h2 {
+  font-family: $font-family-sans-serif;
+}
+
+.font-bold {
+  font-family: Gilroy-ExtraBold, sans-serif !important;
+}
+.font-weight-normal {
+  font-weight: normal;
+}
+
+.copyright p {
+  color: #f2f2f2;
+}
+
+.ico-base {
+  font-size: 30px;
+  color: #E22A5A;
+}

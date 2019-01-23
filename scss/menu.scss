@@ -1,0 +1,85 @@
+nav {
+  position: relative;
+  z-index: 1;
+  color: white;
+}
+ul {
+  padding-left: 0;
+  list-style-type: none;
+}
+ul li a {
+  color: white;
+  &:hover { color: white}
+}
+
+header .nav-link {
+  color: white;
+}
+
+header .btn-link .nav-link, footer .nav-link {
+  padding-bottom: 1px;
+  &:hover {
+    border-bottom: 1px solid;
+    padding-bottom: 0;
+  }
+}
+header .btn-link.active .nav-link, footer .nav-link.active {
+  border-bottom: 1px solid;
+  padding-bottom: 0;
+}
+
+header .btn-link {
+  &:hover {
+    text-decoration: none !important;
+  }
+}
+
+footer nav ul a {
+  white-space: nowrap;
+}
+
+.social i {
+  color: #f7c8d1;
+  font-size: 20px;
+  &:hover {
+    color: white;
+  }
+}
+
+.social-footer {
+  padding-top: 5px;
+}
+.social-footer i {
+  color: #ffffff;
+  font-size: 30px;
+  &:hover {
+    color: var(--faded-red);
+  }
+}
+.modal-icons i {
+  color: black;
+  font-size: 60px;
+  &:hover {
+    color: gray;
+  }
+}
+
+.footer-menu a {
+  color: #a8a9ac;
+}
+
+.footer-menu li.lead a {
+  color: white;
+}
+.footer-menu li a:hover, .footer-menu .nav-link.active, .footer-menu .nav-link:hover {
+  border-bottom: none;
+  padding-bottom: 1px;
+  text-decoration: none;
+}
+.tel-footer {
+  color: white;
+  &:hover {
+    text-decoration: none;
+    color: white;
+  }
+}

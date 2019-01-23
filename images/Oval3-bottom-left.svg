@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="365px" height="192px" viewBox="0 0 365 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Oval</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <ellipse id="path-1" cx="644.5" cy="748" rx="644.5" ry="622"></ellipse>
+        <filter x="-0.2%" y="-0.2%" width="100.3%" height="100.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="WMS-система" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0.000000, -3067.000000)" opacity="0.321841033">
+        <g id="футер" transform="translate(-754.000000, 2932.000000)">
+            <g id="фон">
+                <g id="Oval">
+                    <use fill="#525252" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

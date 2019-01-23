@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="68px" height="68px" viewBox="0 0 68 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>иконка</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="30" cy="30" r="30"></circle>
+        <filter x="-11.7%" y="-8.3%" width="123.3%" height="123.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.411543252 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Desktop-HD-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-836.000000, -2542.000000)">
+        <g id="контакты" transform="translate(139.000000, 2514.000000)">
+            <g id="иконка" transform="translate(701.000000, 30.000000)">
+                <g id="Oval-2">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#DB444D" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <path d="M39.5511352,23.720041 C39.452962,23.3598426 39.2536019,22.9760412 39.1061177,22.6400109 C37.3413094,18.4879997 33.4852398,17 30.3716567,17 C26.2035619,17 21.6128929,19.7360763 21,25.3757733 L21,26.5279938 C21,26.5760788 21.0169286,27.0080281 21.0409749,27.2240969 C21.3845489,29.9118371 23.550963,32.7683144 25.1689284,35.4560546 C26.9096263,38.3356955 28.7158584,41.1684441 30.5053543,44 C31.6087924,42.1521786 32.7082547,40.2800636 33.7865563,38.4800762 C34.0804346,37.9518313 34.4215718,37.4239002 34.7157707,36.9196978 C34.9118605,36.5839814 35.2864703,36.248265 35.457616,35.9359006 C37.1982498,32.8160855 40,29.6721652 40,26.5760161 L40,25.3040852 C40.0000641,24.9684316 39.5750532,23.7924197 39.5511352,23.720041 Z M30.3656417,30 C29.1232377,30 27.7633363,29.3926311 27.0920987,27.7152782 C26.9920926,27.4482749 27.0001555,26.9131876 27.0001555,26.8641734 L27.0001555,26.1107156 C27.0001555,23.9724006 28.8572266,23 30.4728004,23 C32.4617391,23 34,24.5557392 34,26.5002861 C34,28.4447694 32.3545804,30 30.3656417,30 Z" id="Facebook_Places" fill="#9D2041" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

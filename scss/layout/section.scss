@@ -1,0 +1,67 @@
+section {
+  //background: url("./images/maskBG.svg") no-repeat center top;
+  //background-size: 110%;
+
+  z-index: 1;
+  position: relative;
+  background: white;
+}
+
+.maskTop {
+  position: absolute;
+  bottom: -12px;
+}
+
+.form-block {
+  background: url("./images/formBG-min.png") no-repeat center;
+  min-height: 370px;
+  background-size: cover;
+}
+.form-block--nobg {
+  //background: url("./images/formBG-min.png") no-repeat center;
+  min-height: 370px;
+  //background-size: cover;
+}
+
+.form-block label, .form-block--nobg label {
+  width: 100%;
+}
+.form-block input, .form-block--nobg input {
+  height:53px;
+  background-color: rgba(242, 242, 242, 0.56);
+  color: #9b9b9b;
+  border: none;
+}
+.form-block button, .form-block--nobg button {
+  height: 50px;
+  padding: 0.375rem 2.5rem;
+}
+.mini_ovals {
+  background: url("./images/Oval1-mini-right.svg") no-repeat right top,
+              url("./images/Oval1-mini-left.svg") no-repeat left bottom;
+}
+.mini_ovals2 {
+  background: url("./images/Oval1-mini-left.svg") no-repeat left top,
+              url("./images/Oval1-mini-right.svg") no-repeat right 30%,
+              url("./images/Oval2-mini-left.svg") no-repeat left bottom;
+}
+
+.content-page h2 {
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+}
+
+.content-page a {
+  //font-family: Gilroy-ExtraBold, sans-serif !important;
+}
+
+blockquote p {
+  font-size: 20px;
+  line-height: 1.65;
+  color: #9b9b9b;
+  font-family: "Roboto", sans-serif !important;
+}
+
+.modal-footer {
+  justify-content: center;
+}

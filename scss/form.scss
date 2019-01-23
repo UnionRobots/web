@@ -1,0 +1,15 @@
+$border-radius: 0 !default;
+
+.input--noborder {
+  border: none;
+}
+.input--border-b {
+  border-left: none;
+  border-right: none;
+  border-top: none;
+}
+
+.value--workers {
+  font-size: 25px;
+  max-width: 70px;
+}

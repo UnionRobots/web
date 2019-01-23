@@ -1,0 +1,21 @@
+.click-example {
+  position: relative;
+  -webkit-animation: moveHlong 5s infinite; /* Safari 4.0 - 8.0 */
+  -webkit-animation-delay: 2s; /* Safari 4.0 - 8.0 */
+  animation: moveHlong 5s infinite;
+  animation-delay: 2s;
+  color: darkgray;
+  font-size: 25px;
+}
+
+@-webkit-keyframes moveHlong {
+  0%   {left: 0px; top: 0px;}
+  50%  {left: 200px;}
+  100% {left: 0px; top: 0px;}
+}
+
+@keyframes moveHlong {
+  0%   {left: 0px; top: 0px;}
+  50%  {left: 200px;}
+  100% {left: 0px; top: 0px;}
+}

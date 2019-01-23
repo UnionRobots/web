@@ -1,0 +1,24 @@
+footer {
+  //height: 322px;
+  //background-color: #373636;
+  //background-color: var(--black);
+  background: url("./images/maskBGfooter.svg") no-repeat top center;
+  color: white;
+  position: relative;
+  background-size: cover;
+  overflow: hidden;
+}
+
+footer p {}
+footer span {}
+
+
+.oval-BottomL {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}
+
+.footer-contacts .h2 {
+  font-size: 1.5rem;
+}

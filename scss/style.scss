@@ -1,0 +1,63 @@
+/*
+Theme Name:     Urob
+Description:    ***
+Author:         UR
+Version:        0.2.04
+*/
+@import "fa-solid";
+@import "fa-brands";
+@import "fa-regular";
+@import "fontawesome";
+
+//@import "fontawesomepro/fontawesome-pro-core";
+//@import "fontawesomepro/fontawesome-pro-solid";
+//@import "fontawesomepro/fontawesome-pro-regular";
+//@import "fontawesomepro/fontawesome-pro-light";
+//@import "fontawesomepro/fontawesome-pro-brands";
+
+@import "fonts";
+@import "form";
+@import "mixins";
+
+@import "colors";
+@import "headings";
+
+$btn-border-radius: 0;
+$btn-border-radius-lg: 0;
+$btn-border-radius-sm: 0;
+$modal-content-border-radius: 0;
+$link-color: rgba(198, 52, 69, 1.00);
+$link-hover-color:          darken($link-color, 15%);
+// Bootstrap
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+
+// Bootstrap slider
+$slider-primary: red;
+$slider-horizontal-width: 100%;
+
+@import "../node_modules/bootstrap-slider/src/sass/bootstrap-slider.scss";
+
+.slider.slider-horizontal .slider-handle, .slider.slider-horizontal .slider-tick {
+  pointer-events: none;
+}
+
+// Layout
+@import "layout/header";
+@import "layout/footer";
+@import "layout/section";
+@import "layout/404";
+
+
+//
+@import "logo";
+@import "menu";
+@import "spaces";
+@import "images";
+@import "icons-pics";
+
+
+
+
+// Adaptive
+@import "responsive";
